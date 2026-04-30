@@ -8,7 +8,7 @@
 ╚══════════════════════════════════════╝
 ```
 
-# I'm Sam Magbo. 👋
+# I'm Sam K. Magbo. 👋
 
 **Developer in progress · Builder of real things · The younger Morgan Freeman**
 
